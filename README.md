@@ -8,4 +8,4 @@
  ∟ iPhoneで動作チェックする予定
 ```
 
-※ リリースまで記録。
+※ リリースまで記録していく、[wiki](https://github.com/takkii/nyasocom_sun_app/wiki/manual)!
