@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sudok\\source\\repos\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj": {}
+    "C:\\Users\\sudok\\GitHub\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sudok\\source\\repos\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj": {
+    "C:\\Users\\sudok\\GitHub\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sudok\\source\\repos\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj",
+        "projectUniqueName": "C:\\Users\\sudok\\GitHub\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj",
         "projectName": "nyasocom_sun_app",
-        "projectPath": "C:\\Users\\sudok\\source\\repos\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj",
+        "projectPath": "C:\\Users\\sudok\\GitHub\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj",
         "packagesPath": "C:\\Users\\sudok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sudok\\source\\repos\\nyasocom_sun_app\\nyasocom_sun_app\\obj\\",
+        "outputPath": "C:\\Users\\sudok\\GitHub\\nyasocom_sun_app\\nyasocom_sun_app\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -25,20 +25,20 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "monoandroid12.0"
+          "monoandroid11.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "monoandroid12.0": {
+          "monoandroid11.0": {
             "projectReferences": {}
           }
         }
       },
       "frameworks": {
-        "monoandroid12.0": {
+        "monoandroid11.0": {
           "dependencies": {
             "Xamarin.AndroidX.AppCompat": {
               "target": "Package",

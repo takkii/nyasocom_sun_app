@@ -4,10 +4,12 @@ using Android.Runtime;
 using AndroidX.AppCompat.App;
 using Android.Webkit;
 using Android.Views;
+using Android.Content.PM;
 
 namespace nyasocom_sun_app
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Icon = "@mipmap/ic_launcher", Theme = "@style/AppTheme", MainLauncher = true, 
+    ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : AppCompatActivity
     {
         WebView web_view;

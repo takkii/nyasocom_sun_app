@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bUglc8PlSnsM/kZCTT55WvF6IV7U+AbrmJE/aiw/KGeQjHbEcAGOz2ofFGk4wc4kuPpoBUU26jYOiRHAVWy6GA==",
+  "dgSpecHash": "g5nLOT4Gn4j/zjk36Vsmq+R7WaaZc/cyPX3rRbhO43PxatA/DTX4zqtLjTrubUHTx2BuPCuJhNB+CZqsMoEI6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sudok\\source\\repos\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj",
+  "projectFilePath": "C:\\Users\\sudok\\GitHub\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sudok\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.3\\xamarin.androidx.activity.1.1.0.3.nupkg.sha512",

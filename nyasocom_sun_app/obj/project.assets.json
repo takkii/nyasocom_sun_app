@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v12.0": {
+    "MonoAndroid,Version=v11.0": {
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -25,14 +25,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Activity.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Activity.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Activity.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Activity.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Activity.targets": {}
@@ -47,14 +43,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Annotation.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Annotation.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Annotation.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Annotation.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Annotation.targets": {}
@@ -74,14 +66,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.AppCompat.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.AppCompat.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.AppCompat.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.AppCompat.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.AppCompat.targets": {}
@@ -99,14 +87,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.AppCompat.AppCompatResources.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.AppCompat.AppCompatResources.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.AppCompat.AppCompatResources.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.AppCompat.AppCompatResources.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.AppCompat.AppCompatResources.targets": {}
@@ -121,14 +105,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Arch.Core.Common.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Arch.Core.Common.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Arch.Core.Common.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Arch.Core.Common.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Arch.Core.Common.targets": {}
@@ -144,14 +124,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Arch.Core.Runtime.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Arch.Core.Runtime.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Arch.Core.Runtime.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Arch.Core.Runtime.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Arch.Core.Runtime.targets": {}
@@ -167,14 +143,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.AsyncLayoutInflater.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.AsyncLayoutInflater.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.AsyncLayoutInflater.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.AsyncLayoutInflater.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.AsyncLayoutInflater.targets": {}
@@ -191,14 +163,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Browser.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Browser.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Browser.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Browser.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Browser.targets": {}
@@ -213,14 +181,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.CardView.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.CardView.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.CardView.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.CardView.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.CardView.targets": {}
@@ -235,14 +199,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Collection.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Collection.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Collection.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Collection.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Collection.targets": {}
@@ -260,14 +220,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.CoordinatorLayout.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.CoordinatorLayout.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.CoordinatorLayout.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.CoordinatorLayout.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.CoordinatorLayout.targets": {}
@@ -284,14 +240,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Core.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Core.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Core.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Core.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Core.targets": {}
@@ -306,14 +258,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.CursorAdapter.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.CursorAdapter.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.CursorAdapter.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.CursorAdapter.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.CursorAdapter.targets": {}
@@ -329,14 +277,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.CustomView.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.CustomView.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.CustomView.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.CustomView.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.CustomView.targets": {}
@@ -351,14 +295,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.DocumentFile.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.DocumentFile.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.DocumentFile.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.DocumentFile.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.DocumentFile.targets": {}
@@ -375,14 +315,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.DrawerLayout.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.DrawerLayout.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.DrawerLayout.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.DrawerLayout.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.DrawerLayout.targets": {}
@@ -406,14 +342,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Fragment.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Fragment.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Fragment.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Fragment.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Fragment.targets": {}
@@ -428,14 +360,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Interpolator.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Interpolator.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Interpolator.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Interpolator.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Interpolator.targets": {}
@@ -461,14 +389,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Legacy.Support.Core.UI.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Legacy.Support.Core.UI.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Legacy.Support.Core.UI.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Legacy.Support.Core.UI.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Legacy.Support.Core.UI.targets": {}
@@ -488,14 +412,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Legacy.Support.Core.Utils.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Legacy.Support.Core.Utils.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Legacy.Support.Core.Utils.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Legacy.Support.Core.Utils.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Legacy.Support.Core.Utils.targets": {}
@@ -510,14 +430,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.Common.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.Common.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.Common.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.Common.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Lifecycle.Common.targets": {}
@@ -534,14 +450,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.LiveData.Core.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.LiveData.Core.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.LiveData.Core.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.LiveData.Core.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Lifecycle.LiveData.Core.targets": {}
@@ -558,14 +470,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.Runtime.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.Runtime.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.Runtime.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.Runtime.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Lifecycle.Runtime.targets": {}
@@ -580,14 +488,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.ViewModel.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.ViewModel.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.ViewModel.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.ViewModel.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Lifecycle.ViewModel.targets": {}
@@ -605,14 +509,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.targets": {}
@@ -631,14 +531,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Loader.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Loader.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Loader.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Loader.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Loader.targets": {}
@@ -653,14 +549,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.LocalBroadcastManager.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.LocalBroadcastManager.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.LocalBroadcastManager.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.LocalBroadcastManager.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.LocalBroadcastManager.targets": {}
@@ -688,14 +580,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.MultiDex.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.MultiDex.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.MultiDex.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.MultiDex.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.MultiDex.targets": {}
@@ -710,14 +598,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Print.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Print.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Print.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Print.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Print.targets": {}
@@ -735,14 +619,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.RecyclerView.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.RecyclerView.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.RecyclerView.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.RecyclerView.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.RecyclerView.targets": {}
@@ -758,14 +638,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.SavedState.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.SavedState.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.SavedState.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.SavedState.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.SavedState.targets": {}
@@ -782,14 +658,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.SlidingPaneLayout.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.SlidingPaneLayout.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.SlidingPaneLayout.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.SlidingPaneLayout.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.SlidingPaneLayout.targets": {}
@@ -806,14 +678,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.SwipeRefreshLayout.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.SwipeRefreshLayout.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.SwipeRefreshLayout.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.SwipeRefreshLayout.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.SwipeRefreshLayout.targets": {}
@@ -831,14 +699,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.Transition.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Transition.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.Transition.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.Transition.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.Transition.targets": {}
@@ -855,14 +719,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.VectorDrawable.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.VectorDrawable.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.VectorDrawable.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.VectorDrawable.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.VectorDrawable.targets": {}
@@ -879,14 +739,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.VectorDrawable.Animated.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.VectorDrawable.Animated.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.VectorDrawable.Animated.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.VectorDrawable.Animated.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.VectorDrawable.Animated.targets": {}
@@ -902,14 +758,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.VersionedParcelable.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.VersionedParcelable.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.VersionedParcelable.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.VersionedParcelable.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.VersionedParcelable.targets": {}
@@ -926,14 +778,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.AndroidX.ViewPager.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.ViewPager.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.AndroidX.ViewPager.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.AndroidX.ViewPager.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.AndroidX.ViewPager.targets": {}
@@ -949,14 +797,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid10.0/Xamarin.Essentials.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/monoandroid10.0/Xamarin.Essentials.dll": {}
         },
         "runtime": {
-          "lib/monoandroid10.0/Xamarin.Essentials.dll": {
-            "related": ".pdb;.xml"
-          }
+          "lib/monoandroid10.0/Xamarin.Essentials.dll": {}
         }
       },
       "Xamarin.Google.Android.Material/1.0.0.1": {
@@ -976,14 +820,10 @@
           "Java.Interop"
         ],
         "compile": {
-          "lib/monoandroid90/Xamarin.Google.Android.Material.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.Google.Android.Material.dll": {}
         },
         "runtime": {
-          "lib/monoandroid90/Xamarin.Google.Android.Material.dll": {
-            "related": ".pdb"
-          }
+          "lib/monoandroid90/Xamarin.Google.Android.Material.dll": {}
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.Google.Android.Material.targets": {}
@@ -1847,7 +1687,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v12.0": [
+    "MonoAndroid,Version=v11.0": [
       "Xamarin.AndroidX.AppCompat >= 1.2.0.5",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Google.Android.Material >= 1.0.0.1"
@@ -1861,11 +1701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sudok\\source\\repos\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj",
+      "projectUniqueName": "C:\\Users\\sudok\\GitHub\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj",
       "projectName": "nyasocom_sun_app",
-      "projectPath": "C:\\Users\\sudok\\source\\repos\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj",
+      "projectPath": "C:\\Users\\sudok\\GitHub\\nyasocom_sun_app\\nyasocom_sun_app\\nyasocom_sun_app.csproj",
       "packagesPath": "C:\\Users\\sudok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sudok\\source\\repos\\nyasocom_sun_app\\nyasocom_sun_app\\obj\\",
+      "outputPath": "C:\\Users\\sudok\\GitHub\\nyasocom_sun_app\\nyasocom_sun_app\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1879,20 +1719,20 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid12.0"
+        "monoandroid11.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid12.0": {
+        "monoandroid11.0": {
           "projectReferences": {}
         }
       }
     },
     "frameworks": {
-      "monoandroid12.0": {
+      "monoandroid11.0": {
         "dependencies": {
           "Xamarin.AndroidX.AppCompat": {
             "target": "Package",
