@@ -24,7 +24,7 @@ namespace nyasocom_sun_app
             web_view = FindViewById<WebView>(Resource.Id.webview);
             web_view.Settings.JavaScriptEnabled = true;
             web_view.SetWebViewClient(new NyasocomSunAppClient());
-            web_view.LoadUrl("https://blog.nyasocom.net");
+            web_view.LoadUrl("https://takkii.github.io/");
         }
         public override bool OnKeyDown(Keycode keyCode, KeyEvent e)
         {
